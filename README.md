@@ -23,7 +23,9 @@ After you enter a position DEGEN TAKES OVER.
 
 
 ### Watch the overview video here for more info:
+
 link for video
 
-Grab the Latest Release here:
+### Grab the Latest Release here:
+
 github release link

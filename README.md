@@ -30,4 +30,4 @@ https://youtu.be/LF8RsS-clG4
 
 ### Grab the Latest Release here:
 
-github release link
+https://github.com/CryptoGnome/Degen-Bot/releases

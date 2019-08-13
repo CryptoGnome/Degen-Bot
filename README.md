@@ -22,6 +22,8 @@ over the Risk Reward Strategy you set for you.
 After you enter a position DEGEN TAKES OVER.
 
 
+
+
 ### Watch the overview video here for more info:
 
 link for video

@@ -4,7 +4,7 @@ THIS BOT IS FREE ALL WE ASK TO SUPPORT THE PROJECT IS TO CREATE A NEW ACCOUNT US
 AFFILIATE LINK, THIS WAY I CAN CONTINUE TO SUPPORT THE PROJECT FOR FREE AND NOT CHARGE
 YOU BEAUTIFUL TRADERS <3.
 
-Create a Deribit Account Here:
+## Create a Deribit Account Here:
 
 https://www.deribit.com/reg-2234.6442?q=home
 
@@ -22,7 +22,7 @@ over the Risk Reward Strategy you set for you.
 After you enter a position DEGEN TAKES OVER.
 
 
-Watch the overview video here for more info:
+## Watch the overview video here for more info:
 link for video
 
 Grab the Latest Release here:

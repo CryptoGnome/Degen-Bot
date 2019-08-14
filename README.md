@@ -34,6 +34,9 @@ https://github.com/CryptoGnome/Degen-Bot/releases
 
 
 
+
+
+
 ### TradingView Alert Syntax:
 
 ```

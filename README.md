@@ -4,7 +4,7 @@ THIS BOT IS FREE ALL WE ASK TO SUPPORT THE PROJECT IS TO CREATE A NEW ACCOUNT US
 AFFILIATE LINK, THIS WAY I CAN CONTINUE TO SUPPORT THE PROJECT FOR FREE AND NOT CHARGE
 YOU BEAUTIFUL TRADERS <3.
 
-### Create a Deribit Account Here:
+#### Create a Deribit Account Here:
 
 https://www.deribit.com/reg-2234.6442?q=home
 
@@ -24,17 +24,17 @@ After you enter a position DEGEN TAKES OVER.
 
 
 
-### Watch the overview video here for more info:
+#### Watch the overview video here for more info:
 
 https://youtu.be/LF8RsS-clG4
 
-### Grab the Latest Release here:
+#### Grab the Latest Release here:
 
 https://github.com/CryptoGnome/Degen-Bot/releases
 
 
 
-TradingView Alert Syntax:
+### TradingView Alert Syntax:
 
 ```
 exchange = DERIBIT
@@ -49,6 +49,6 @@ order_type = MARKET
 
 This is the message that goes into your Tradingview Alert & gets sent as an email.
 
-Video Tutorial here:
+#### Video Tutorial here:
 
 VIDEO LINK

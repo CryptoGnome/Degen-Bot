@@ -9,8 +9,8 @@ YOU BEAUTIFUL TRADERS <3.
 https://www.deribit.com/reg-2234.6442?q=home
 
 Join the Discord & Head to the #degen-bot channel and tag @Moderators to get your
-license key, you will be asked to show a screen shot of your deposit on your new account
-to confirm you used our link:
+license key, you will be asked to show a screen shot of your deposit or email registration from today on
+your new account to confirm you used our link:
 
 https://discord.gg/4gBBGjz
 
@@ -31,3 +31,18 @@ https://youtu.be/LF8RsS-clG4
 ### Grab the Latest Release here:
 
 https://github.com/CryptoGnome/Degen-Bot/releases
+
+
+
+### TradingView Alert Syntax:
+`exchange = DERIBIT
+symbol = BTC-PERPETUAL
+direction = BUY
+amount = 1
+order_type = MARKET`
+
+This is the message that goes into your Tradingview Alert & gets sent as an email.
+
+Video Tutorial here:
+
+VIDEO LINK

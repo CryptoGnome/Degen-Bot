@@ -38,9 +38,13 @@ https://github.com/CryptoGnome/Degen-Bot/releases
 
 `
 exchange = DERIBIT
+
 symbol = BTC-PERPETUAL
+
 direction = BUY
+
 amount = 1
+
 order_type = MARKET
 `
 

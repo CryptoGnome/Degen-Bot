@@ -34,7 +34,7 @@ https://github.com/CryptoGnome/Degen-Bot/releases
 
 
 
-### TradingView Alert Syntax:
+[b/]TradingView Alert Syntax:[b]
 
 ```
 exchange = DERIBIT

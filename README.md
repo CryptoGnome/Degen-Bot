@@ -36,11 +36,14 @@ https://github.com/CryptoGnome/Degen-Bot/releases
 
 ### TradingView Alert Syntax:
 
-```exchange = DERIBIT
+`
+exchange = DERIBIT
 symbol = BTC-PERPETUAL
 direction = BUY
 amount = 1
 order_type = MARKET
+`
+
 
 This is the message that goes into your Tradingview Alert & gets sent as an email.
 

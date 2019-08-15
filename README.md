@@ -22,8 +22,6 @@ over the Risk Reward Strategy you set for you.
 After you enter a position DEGEN TAKES OVER.
 
 
-
-
 #### Watch the overview video here for more info:
 
 https://youtu.be/LF8RsS-clG4
@@ -33,6 +31,35 @@ https://youtu.be/LF8RsS-clG4
 https://github.com/CryptoGnome/Degen-Bot/releases
 
 
+Installation:
+---------------------------------------------------------------
+Grab the latest release. This can be found in the pinned messages in the
+private discord channel for support members.
+
+Unzip Folder to location of you choice
+
+Install Node & PM2 to Restart your bot if there are any crashes:
+----------------------------------------------------------------
+Install Node JS:
+
+https://nodejs.org/dist/v12.8.0/node-v12.8.0-x64.msi
+
+Run Install PM2 Using Included Bat File
+
+
+
+Edit Settings.py file with text editor:
+---------------------------------------------------------------
+Enter API Keys
+Enter Auth Keys 
+Choose True or False for Tradingview Settings
+
+
+How to Run Bot:
+---------------------------------------------------------------
+Use the Included Bat file <Bot Monitor> to launch PM2 Monitor.
+Use the Included Bat File Named <Run Bot> to start Liquidation Hunter.
+If you need to kill the bot use the Included Bat file named <Stop Bot>.
 
 
 

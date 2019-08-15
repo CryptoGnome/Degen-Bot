@@ -72,6 +72,7 @@ symbol = BTC-PERPETUAL
 direction = BUY
 amount = 1
 order_type = MARKET
+close_position = TRUE
 ```
 
 

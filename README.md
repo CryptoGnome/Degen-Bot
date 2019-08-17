@@ -82,4 +82,4 @@ This is the message that goes into your Tradingview Alert & gets sent as an emai
 
 #### Video Tutorial here:
 
-VIDEO LINK
+https://youtu.be/qgDTtyh0HnI
